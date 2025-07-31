@@ -1,0 +1,6 @@
+{
+  "name": "News Digest AI",
+  "description": "An AI-powered app to create personalized news digests from Google News. Select your topics, schedule, and receive a curated email-ready summary.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
